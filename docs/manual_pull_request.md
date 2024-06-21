@@ -6,6 +6,7 @@
 ![PencilButton](./images/pencil_button.png)
 3. 「Fork this repository」ボタンを押してください
 <img width="1092" alt="ForkButton" src="https://github.com/takahiroanno2024/election2024/assets/65479630/476be8cc-8db9-4262-8687-29cd410fed23">
+
 4. エディタに変わるので、そのまま修正をしてください。
 ![EditingManifest](./images/editing_manifest.png)
 5. 必要な修正をしたら、修正内容を入れて`Propose changes` ボタンを押してください。
